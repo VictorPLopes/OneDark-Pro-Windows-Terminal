@@ -11,9 +11,12 @@ I like to keep my software consistent and uniform, which is why I try to use the
 - [One Dark Pro for Visual Studio Code (by Binaryify)](https://github.com/Binaryify/OneDark-Pro)
 - [One Dark Pro for Visual Studio (by Binaryify)](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.onedarkpro)
 - [One Dark Pro for Windows Terminal](https://github.com/VictorPLopes/OneDark-Pro-Windows-Terminal)
+- [One Dark Pro for Kitty Terminal](https://github.com/VictorPLopes/OneDark-Pro-Kitty-Terminal)
 - [One Dark Pro for Chromium Browsers](https://github.com/VictorPLopes/OneDark-Pro-Chromium)
 - [One Dark Pro for Starship Prompt](https://github.com/VictorPLopes/OneDark-Pro-Starship)
-- [One Dark Theme for JetBrains IDEs (by Mark Skelton)](https://plugins.jetbrains.com/plugin/11938-one-dark-theme)
+- [One Dark Pro for Neovim (by olimorris)](https://github.com/olimorris/onedarkpro.nvim)
+- [One Dark Pro for iTerm (by chinhsuanwu)](https://github.com/chinhsuanwu/one-dark-pro-iterm)
+- [One Dark for JetBrains IDEs (by Mark Skelton)](https://plugins.jetbrains.com/plugin/11938-one-dark-theme)
 
 ![One Dark Pro Collection](./screenshots/one-dark-pro-collection.png)
 
@@ -22,10 +25,6 @@ I like to keep my software consistent and uniform, which is why I try to use the
 ### PowerShell 7, Windows Terminal, Windows 11
 
 ![Windows](./screenshots/one-dark-pro-windows.png)
-
-### Fish, Windows Terminal, Ubuntu 22 on Windows 11 (WSL2)
-
-![WSL](./screenshots/one-dark-pro-ubuntu.png)
 
 ## Pre-requisites
 
